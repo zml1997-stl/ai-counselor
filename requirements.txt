@@ -2,7 +2,6 @@ streamlit
 firebase-admin
 google-generativeai
 requests
-json
 nltk
 matplotlib
 python-dotenv
